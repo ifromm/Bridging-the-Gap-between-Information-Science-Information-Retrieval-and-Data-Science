@@ -26,7 +26,7 @@ The target audience of the workshop are students, practitioners and researchers 
 
 We plan to invite world-renowned keynote speakers to provide food for thought and inspiration from respected experts in the field of IS, IR and DS. Oral and poster paper presentations will discuss cutting-edge research in the areas relevant to the BIRDS workshop. A planned panel discussion session will investigate whether and how the gap between IS and DS can be bridged through IR, and provide an outlook on future research.
 
-### Submission Guidelines:
+### Submission Guidelines
 
 Authors of accepted papers will be invited to present their papers orally at the workshop and/or to present them in the interactive poster sessions.
 All papers should be formatted in the ACM SIG double-column style.
@@ -40,12 +40,12 @@ Further information about the submission and on how to submit your paper can be 
 - Camera-ready: October 4, 2019
 If you have any further questions, you can reach out via email to Email.
 
-## Keynote Speakers:
+## Keynote Speakers
 
 - Prof David L Donoho
 - Prof Peter Pirolli 
 
-## Program Committee (PC) Members: 
+## Program Committee (PC) Members
 
 - Ricardo Baeza-Yates, NTENT 
 - Pia Borlund, OsloMet 
@@ -70,7 +70,7 @@ If you have any further questions, you can reach out via email to Email.
 - Ryen White, Microsoft   
 - Guido Zuccon,University of Queensland
 
-## Workshop Organisers: 
+## Workshop Organisers
 
 - Ingo Frommholz, University of Bedfordshire, UK
 - Haiming Liu, University of Bedfordshire, UK
