@@ -1,3 +1,5 @@
+# Bridging the Gap between Information Science, Information Retrieval and Data Science
+
 ## Call For Papers
  
 We are calling for papers to join us on 19thOct 2019 in Melbourne, Australia. We will be running a workshop called BIRDS - Bridging the Gap between Information Science, Information Retrieval and Data Science, which aims to foster the cross-fertilization of Information Science (IS), Information Retrieval (IR) and Data Science (DS). Recognising the commonalities and differences between these communities, the full-day workshop will bring together experts and researchers in IS, IR and DS to discuss how they can learn from each other to provide user-driven data and information exploration and retrieval solutions. Therefore, we welcome submissions conveying ideas on how to utilise, for instance, IS concepts and theories in DS and IR or DS approaches to support users in data and information exploration. BIRDS will be collocated with the 82th Annual Meeting of ASIS&T 2019 in Melbourne, Australia (https://www.asist.org/am19/). The workshop will be held all day on Saturday 19thOct 2019.
