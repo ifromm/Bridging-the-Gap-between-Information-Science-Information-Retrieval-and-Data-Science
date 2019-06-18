@@ -42,36 +42,37 @@ If you have any further questions, you can reach out via email to Email.
 
 ## Keynote Speakers:
 
-Prof David L Donoho
-Prof Peter Pirolli 
+- Prof David L Donoho
+- Prof Peter Pirolli 
 
 ## Program Committee (PC) Members: 
-Ricardo Baeza-Yates, NTENT 
-Pia Borlund, OsloMet 
-Guillaume Cabanac, University of Toulouse     
-Carlos Castillo
-Arjen de Vries, Radboud University   
-David Donoho, Stanford University
-David Elsweiler, University of Regensburg            
-Ed Fox, Virginia Tech
-Norbert Fuhr,University of Duisburg-Essen   
-Lorraine Goeuriot, University of Grenoble
-Joemon Jose, University of Glasgow   
-Birger Larsen, Aalborg University  
-Zachary Lipton
-Philipp Mayr, GESIS  
-Gabriella Pasi, University of Milano-Bicocca
-Peter Pirolli
-Thomas Roelleke, Queen Mary University of London          
-Ian Ruthven, University of Strathclyde 
-Mark Sanderson, RMIT University            
-Ingo Schmitt, BTU Cottbus-Senftenberg  
-Ryen White, Microsoft   
-Guido Zuccon,University of Queensland
+
+- Ricardo Baeza-Yates, NTENT 
+- Pia Borlund, OsloMet 
+- Guillaume Cabanac, University of Toulouse     
+- Carlos Castillo
+- Arjen de Vries, Radboud University   
+- David Donoho, Stanford University
+- David Elsweiler, University of Regensburg            
+- Ed Fox, Virginia Tech
+- Norbert Fuhr,University of Duisburg-Essen   
+- Lorraine Goeuriot, University of Grenoble
+- Joemon Jose, University of Glasgow   
+- Birger Larsen, Aalborg University  
+- Zachary Lipton
+- Philipp Mayr, GESIS  
+- Gabriella Pasi, University of Milano-Bicocca
+- Peter Pirolli
+- Thomas Roelleke, Queen Mary University of London          
+- Ian Ruthven, University of Strathclyde 
+- Mark Sanderson, RMIT University            
+- Ingo Schmitt, BTU Cottbus-Senftenberg  
+- Ryen White, Microsoft   
+- Guido Zuccon,University of Queensland
 
 ## Workshop Organisers: 
 
-Ingo Frommholz, University of Bedfordshire, UK
-Haiming Liu, University of Bedfordshire, UK
-Massimo Melucci, University of Padova, Italy
+- Ingo Frommholz, University of Bedfordshire, UK
+- Haiming Liu, University of Bedfordshire, UK
+- Massimo Melucci, University of Padova, Italy
 
